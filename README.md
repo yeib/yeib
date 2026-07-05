@@ -24,6 +24,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 
 ### 🤝 Clientes Destacados
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
+- 🧸 **[Casita Blue Daycare](https://casitablue.yeib.cl):** Plataforma web para guardería infantil y centro de cuidados.
 
 ### 🌍 Proyectos Abiertos (Open-Source)
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
