@@ -19,7 +19,8 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 📚 **[FreeBlioteca](https://freeblioteca.cl):** Un ecosistema completo de gestión literaria.
 - 📈 **[IndicadoresCL](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
 - 🐉 **[Cronicón](https://cronicon.cl):** Plataforma híbrida que fusiona una red social con un juego de rol MMO (RPG).
-- 🎱 **[LotoCGR](#):** Herramienta interna de gestión de flujos (con un toque místico 🔮).
+- 📧 **[YeibMail](https://mail.yeib.cl):** Solución de correo corporativo seguro e independiente.
+- 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
 
 ### 🤝 Clientes Destacados
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
