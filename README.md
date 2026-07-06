@@ -28,6 +28,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 
 ### 🌍 Proyectos Abiertos (Open-Source)
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
+- 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
 
 ---
 <div align="center">
