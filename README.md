@@ -31,7 +31,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
 
 ### 🛠️ Proyectos en Desarrollo
-- ⚙️ **[Zaraz Engine](https://github.com/yeib/ZarazEngineLite):** Framework de simulación determinista para juegos de Gran Estrategia (*Grand Strategy*) construido nativamente en Rust. Diseñado para competir con el motor Clausewitz, cuenta con una arquitectura matemática ultra-optimizada, integración Data-Driven (Rhai Scripting) y telemetría en tiempo real mediante WebSockets.
+- ⚙️ **[Zaraz Engine](https://github.com/yeib/ZarazMaker):** Framework de simulación determinista para juegos de Gran Estrategia (*Grand Strategy*) construido nativamente en Rust. Diseñado para competir con el motor Clausewitz, cuenta con una arquitectura matemática ultra-optimizada, integración Data-Driven (Rhai Scripting) y telemetría en tiempo real mediante WebSockets.
 - 📄 **[PDF Yeib](https://github.com/yeib/PDFyeib):** Utilidad avanzada de escritorio para Windows. Permite mezclar, extraer y procesar PDFs 100% offline con máxima privacidad, ideal para entornos corporativos.
 - 📁 **[PowerFolder](https://github.com/yeib/powerfolder):** Explorador de alto rendimiento. Combina gestión masiva, indexación profunda y operaciones por lotes con una potente suite integrada de conversión y edición de imágenes y mucho más.
 
