@@ -42,7 +42,12 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
 
 ### 🛠️ Proyectos en Desarrollo
-- ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** diseñado para la creación de juegos de simulación, estrategia y RPG. Construido en **Rust (100% Core) + Tauri v2**, incluye simulación multi-hilo, Utility AI para NPCs, Pathfinding A*, Quadtrees 2D y exportación standalone (.EXE) en 1-clic.
+- ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para simulación, estrategia y RPG. Diseñado con una arquitectura modular de 5 pilares:
+  - ⚡ **Núcleo Lógico:** Rust (Multi-hilo, Quadtrees 2D, Utility AI & Pathfinding A*)
+  - 🎮 **Motor Gráfico:** WGPU
+  - 🎨 **Interfaces & Herramientas:** Egui
+  - 🌐 **Portabilidad Extrema:** WebAssembly (WASM)
+  - 📦 **Empaquetado Escritorio:** Tauri v2 & Exportador Standalone (.EXE)
 
 ---
 <div align="center">
