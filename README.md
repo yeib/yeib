@@ -29,6 +29,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - ⚖️ **[Notaría Digital](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
 - 📚 **[FreeBlioteca](https://freeblioteca.cl):** Un ecosistema completo de gestión literaria.
 - 📈 **[IndicadoresCL](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
+- 🧰 **[Yeib Tools](https://tools.yeib.cl):** Portal satélite de micro-herramientas gratuitas en PHP nativo (transcripción, análisis de archivos y utilidades web).
 - 🐉 **[Cronicón](https://cronicon.cl):** Plataforma híbrida que fusiona una red social con un juego de rol MMO (RPG).
 - 📧 **[YeibMail](https://mail.yeib.cl):** Solución de correo corporativo seguro e independiente.
 - 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
