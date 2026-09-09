@@ -29,16 +29,16 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 
 - 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
 - 📚 **[FreeBlioteca](https://freeblioteca.cl):** Un ecosistema completo de gestión literaria.
-- 📈 **[IndicadoresCL](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
+- 📈 **[Indicadores y Datos](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
 - 🧰 **[Yeib Tools](https://tools.yeib.cl):** Portal satélite de micro-herramientas gratuitas en PHP nativo (transcripción, análisis de archivos y utilidades web).
 - 🐉 **[Cronicón](https://cronicon.cl):** Plataforma híbrida que fusiona una red social con un juego de rol MMO (RPG).
 - 🌌 **[Proteo](https://proteo.yeib.cl):** Experimento de morfología web fluida y consciencia artificial evolutiva en Laravel, donde una entidad autónoma muta su diseño, lógica y narrativa mediante IA en tiempo real.
 - 📧 **[YeibMail](https://mail.yeib.cl):** Solución de correo corporativo seguro e independiente.
-- ⚖️ **[Notaría Digital](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
+- 🎯 **[LicitaMejor](https://licitamejor.yeib.cl):** Plataforma SaaS de inteligencia estratégica con IA y radar en tiempo real para licitaciones públicas en Mercado Público.
+- ⚖️ **[Notaría Libre](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
 
 ### 🤝 Clientes Destacados
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
-- 🧸 **[Casita Blue Daycare](https://casitablue.yeib.cl):** Plataforma web para guardería infantil y centro de cuidados.
 
 ### 🌍 Proyectos Abiertos (Open-Source)
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
