@@ -43,6 +43,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 ### 🌍 Proyectos Abiertos (Open-Source)
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
+- 📄 **[InkIt](https://github.com/yeib/InkIt):** Visor y editor ligero de documentos PDF enfocado en lectura continua, anotación interactiva y manipulación ágil de páginas.
 
 ### 🛠️ Proyectos en Desarrollo
 - ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular, ultra liviana y escalable:
