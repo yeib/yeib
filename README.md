@@ -13,8 +13,9 @@ Me dedico a construir software robusto y herramientas digitales orientadas a res
 La mayor parte de mi código fuente es cerrado por motivos comerciales y de privacidad (SaaS B2B y software propietario), pero puedes ver mi actividad en las contribuciones diarias y explorar algunas de mis herramientas abiertas.
 
 ### 🪟 Aplicaciones Nativas de Windows (Microsoft Store)
-Productos nativos de alto rendimiento, 100% offline y optimizados en recursos. Explora el catálogo completo en el **[Perfil Oficial de Publicador Yeib en Microsoft Store](https://apps.microsoft.com/search/publisher?name=Yeib)**:
+Herramientas nativas 100% offline, ágiles y con consumo mínimo de recursos. Explora el catálogo completo en el **[Perfil Oficial de Publicador Yeib en Microsoft Store](https://apps.microsoft.com/search/publisher?name=Yeib)**:
 
+- 🗣️ **[NeoTalker](https://apps.microsoft.com/detail/9P1GD2JKWCK4):** Sintetizador de voz TTS ultra-ligero (~2.5 MB RAM) impulsado por SVOX Pico en Rust 64-bit.
 - 🎧 **[Ambiencer](https://apps.microsoft.com/detail/9P05FM70XVDX):** Paisajes sonoros offline y fondos animados para máxima concentración.
 - 🎨 **[DesignLab](https://apps.microsoft.com/detail/9NVT4TLV3XM4):** Espacio de trabajo y mini-suite offline para diseño gráfico y UI/UX.
 - 📁 **[PowerFolder](https://apps.microsoft.com/detail/9NP57T3T4N1F):** Suite todo en uno que unifica las 4 aplicaciones independientes de abajo:
@@ -26,13 +27,13 @@ Productos nativos de alto rendimiento, 100% offline y optimizados en recursos. E
 ### 💼 Mi Ecosistema Privado (Closed-Source)
 Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo todos los días:
 
-- ⚖️ **[Notaría Digital](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
+- 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
 - 📚 **[FreeBlioteca](https://freeblioteca.cl):** Un ecosistema completo de gestión literaria.
 - 📈 **[IndicadoresCL](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
 - 🧰 **[Yeib Tools](https://tools.yeib.cl):** Portal satélite de micro-herramientas gratuitas en PHP nativo (transcripción, análisis de archivos y utilidades web).
 - 🐉 **[Cronicón](https://cronicon.cl):** Plataforma híbrida que fusiona una red social con un juego de rol MMO (RPG).
 - 📧 **[YeibMail](https://mail.yeib.cl):** Solución de correo corporativo seguro e independiente.
-- 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
+- ⚖️ **[Notaría Digital](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
 
 ### 🤝 Clientes Destacados
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
@@ -43,7 +44,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
 
 ### 🛠️ Proyectos en Desarrollo
-- ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular de alto rendimiento:
+- ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular, ultra liviana y escalable:
   - ⚡ **Núcleo Lógico:** Rust (Multi-hilo, Quadtrees 2D, Utility AI & Pathfinding A*)
   - 🎮 **Motor Gráfico:** WGPU
   - 🎨 **Interfaces & Herramientas:** Egui
