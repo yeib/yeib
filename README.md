@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
   <h1>¡Hola! Soy Yeib 👋</h1>
   <p><b>Desarrollador Full-Stack | Creador de Soluciones B2B, Desktop Apps & OSINT</b></p>
-  <a href="https://yeib.cl" target="_blank">🌐 yeib.cl</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/yeib" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://www.producthunt.com/@yeib" target="_blank">😸 Product Hunt</a> &nbsp;|&nbsp; <a href="https://dribbble.com/yeib" target="_blank">🏀 Dribbble</a>
+  <a href="https://yeib.cl" target="_blank">🌐 yeib.cl</a> &nbsp;|&nbsp; <a href="https://cv.yeib.cl" target="_blank">📄 CV</a> &nbsp;|&nbsp; <a href="https://g.dev/yeib" target="_blank">🧑‍💻 g.dev</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/yeib" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://www.producthunt.com/@yeib" target="_blank">😸 Product Hunt</a> &nbsp;|&nbsp; <a href="https://dribbble.com/yeib" target="_blank">🏀 Dribbble</a>
 </div>
 
 ---
 
 ### 🚀 Sobre mí
-Me dedico a construir software robusto y herramientas digitales orientadas a resolver problemas del mundo real. Mi enfoque está en arquitecturas eficientes, experiencias de usuario fluidas (UX/UI), recolección inteligente de datos y el desarrollo de **productos nativos para Windows en Rust y Tauri v2, ultra rápidos y distribuidos oficialmente en la Microsoft Store**.
+Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **8 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis 3 herramientas open-source —Scrapic, NexusGraph e InkIt— que puedes explorar más abajo).
 
 La mayor parte de mi código fuente es cerrado por motivos comerciales y de privacidad (SaaS B2B y software propietario), pero puedes ver mi actividad en las contribuciones diarias y explorar algunas de mis herramientas abiertas.
 
@@ -53,6 +53,11 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
   - 🌐 **Portabilidad Extrema:** WebAssembly (WASM)
   - 📦 **Empaquetado Escritorio:** Tauri v2 & Exportador Standalone (.EXE)
   - 🤖 **IA Generativa Local & Offline:** Integración de modelos abiertos 100% offline (sin cuotas ni APIs externas) para generación de textos, personajes, escenarios, edificios e imágenes.
+- 🏗️ **Próximas Aplicaciones Nativas (Rust + Tauri v2):** Actualmente en construcción para sumar al catálogo de la Microsoft Store:
+  - 💰 **ConTroll:** Gestión financiera offline para el control estricto de ingresos, gastos y presupuestos personales.
+  - 📓 **Cronis:** Bitácora personal y diario de vida cifrado con seguimiento de hábitos y notas cronológicas.
+  - 📝 **SubSero:** Editor inteligente de subtítulos con sincronización temporal y traducción contextual offline.
+  - 🌳 **Ramify:** Constructor visual de árboles genealógicos, cronologías históricas y mapeo de relaciones.
 
 ---
 <div align="center">
