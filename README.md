@@ -48,7 +48,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🪪 **[CV Interactivo](https://github.com/yeib/CV):** Plantilla web moderna, interactiva y bilingüe en tiempo real con efecto Glassmorphism y cero dependencias de build. *Alpine.js, Tailwind CSS, JavaScript*.
 
 ### 🛠️ Proyectos en Desarrollo
-- ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular, ultra liviana y escalable:
+- ⚙️ **[Zaraz Studio](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular, ultra liviana y escalable:
   - ⚡ **Núcleo Lógico:** Rust (Multi-hilo, Quadtrees 2D, Utility AI & Pathfinding A*)
   - 🎮 **Motor Gráfico:** WGPU
   - 🎨 **Interfaces & Herramientas:** Egui
