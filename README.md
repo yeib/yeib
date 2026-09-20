@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **8 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis 3 herramientas open-source —Scrapic, NexusGraph e InkIt— que puedes explorar más abajo).
+Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **9 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis 3 herramientas open-source —Scrapic, NexusGraph e InkIt— que puedes explorar más abajo).
 
 La mayor parte de mi código fuente es cerrado por motivos comerciales y de privacidad (SaaS B2B y software propietario), pero puedes ver mi actividad en las contribuciones diarias y explorar algunas de mis herramientas abiertas.
 
@@ -18,6 +18,7 @@ Herramientas nativas 100% offline, ágiles y con consumo mínimo de recursos. Ex
 - 🗣️ **[NeoTalker](https://apps.microsoft.com/detail/9P1GD2JKWCK4):** Sintetizador de voz TTS ultra-ligero (~2.5 MB RAM) impulsado por SVOX Pico en Rust 64-bit.
 - 🎧 **[Ambiencer](https://apps.microsoft.com/detail/9P05FM70XVDX):** Paisajes sonoros offline y fondos animados para máxima concentración.
 - 🎨 **[DesignLab](https://apps.microsoft.com/detail/9NVT4TLV3XM4):** Espacio de trabajo y mini-suite offline para diseño gráfico y UI/UX.
+- 📝 **[SubSero](https://apps.microsoft.com/detail/9nqd3fbs9zlx):** Editor inteligente de subtítulos con sincronización temporal y traducción contextual offline.
 - 📁 **[PowerFolder](https://apps.microsoft.com/detail/9NP57T3T4N1F):** Suite todo en uno que unifica las 4 aplicaciones independientes de abajo:
   - 📄 **[PDF Yeib](https://apps.microsoft.com/detail/9MST8VSWDZD7):** Edición, gestión y conversión visual de documentos PDF 100% offline.
   - 🛡️ **[Centinela Yeib](https://apps.microsoft.com/detail/9P2PZ9R47CRG):** Bóveda de cifrado AES-256, borrado seguro y monitoreo de productividad.
@@ -56,7 +57,6 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🏗️ **Próximas Aplicaciones Nativas (Rust + Tauri v2):** Actualmente en construcción para sumar al catálogo de la Microsoft Store:
   - 💰 **ConTroll:** Gestión financiera offline para el control estricto de ingresos, gastos y presupuestos personales.
   - 📓 **Cronis:** Bitácora personal y diario de vida cifrado con seguimiento de hábitos y notas cronológicas.
-  - 📝 **SubSero:** Editor inteligente de subtítulos con sincronización temporal y traducción contextual offline.
   - 🌳 **Ramify:** Constructor visual de árboles genealógicos, cronologías históricas y mapeo de relaciones.
 
 ---
