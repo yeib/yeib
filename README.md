@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **9 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis 3 herramientas open-source —Scrapic, NexusGraph e InkIt— que puedes explorar más abajo).
+Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **9 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, InkIt y CV— que puedes explorar más abajo).
 
 La mayor parte de mi código fuente es cerrado por motivos comerciales y de privacidad (SaaS B2B y software propietario), pero puedes ver mi actividad en las contribuciones diarias y explorar algunas de mis herramientas abiertas.
 
@@ -45,6 +45,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
 - 📄 **[InkIt](https://github.com/yeib/InkIt):** Visor y editor ligero de documentos PDF enfocado en lectura continua, anotación interactiva y manipulación ágil de páginas.
+- 🪪 **[CV Interactivo](https://github.com/yeib/CV):** Plantilla web moderna, interactiva y bilingüe en tiempo real con efecto Glassmorphism y cero dependencias de build. *Alpine.js, Tailwind CSS, JavaScript*.
 
 ### 🛠️ Proyectos en Desarrollo
 - ⚙️ **[Zaraz Studio 2.0 (Zaraz Maker)](https://github.com/yeib/ZarazStudio):** Motor de videojuegos y suite IDE **100% No-Code** para juegos de simulación, estrategia y RPG. Diseñado con una arquitectura modular, ultra liviana y escalable:
