@@ -55,6 +55,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
   - 📦 **Empaquetado Escritorio:** Tauri v2 & Exportador Standalone (.EXE)
   - 🤖 **IA Generativa Local & Offline:** Integración de modelos abiertos 100% offline (sin cuotas ni APIs externas) para generación de textos, personajes, escenarios, edificios e imágenes.
 - 🏗️ **Próximas Aplicaciones Nativas (Rust + Tauri v2):** Actualmente en construcción para sumar al catálogo de la Microsoft Store:
+  - ✨ **[PowerDesktop](https://github.com/yeib/PowerDesktop):** La suite definitiva del ecosistema Yeib para reimaginar por completo el escritorio de Windows.
   - 💰 **ConTroll:** Gestión financiera offline para el control estricto de ingresos, gastos y presupuestos personales.
   - 📓 **Cronis:** Bitácora personal y diario de vida cifrado con seguimiento de hábitos y notas cronológicas.
   - 🌳 **Ramify:** Constructor visual de árboles genealógicos, cronologías históricas y mapeo de relaciones.
