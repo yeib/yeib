@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
   <h1>¡Hola! Soy Yeib 👋</h1>
-  <p><b>Desarrollador Full-Stack | Creador de Soluciones B2B, Desktop Apps & OSINT</b></p>
+  <p><b>Desarrollador de Software Multiplataforma | Software Nativo para Windows, Ecosistemas Web & Indie Game Dev</b></p>
   <a href="https://yeib.cl" target="_blank">🌐 yeib.cl</a> &nbsp;|&nbsp; <a href="https://cv.yeib.cl" target="_blank">📄 CV</a> &nbsp;|&nbsp; <a href="https://g.dev/yeib" target="_blank">🧑‍💻 g.dev</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/yeib" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://www.producthunt.com/@yeib" target="_blank">😸 Product Hunt</a> &nbsp;|&nbsp; <a href="https://dribbble.com/yeib" target="_blank">🏀 Dribbble</a>
 </div>
 
@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí
 Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **9 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, InkIt y CV— que puedes explorar más abajo).
 
-La mayor parte de mi código fuente es cerrado por motivos comerciales y de privacidad (SaaS B2B y software propietario), pero puedes ver mi actividad en las contribuciones diarias y explorar algunas de mis herramientas abiertas.
+La gran mayoría de mi trabajo vive en repositorios privados (plataformas comerciales, SaaS y soluciones B2B). Puedes ver mi ritmo de desarrollo diario en el gráfico de contribuciones y explorar mi selección de proyectos de código abierto.
 
 ### 🪟 Aplicaciones Nativas de Windows (Microsoft Store)
 Herramientas nativas 100% offline, ágiles y con consumo mínimo de recursos. Explora el catálogo completo en el **[Perfil Oficial de Publicador Yeib en Microsoft Store](https://apps.microsoft.com/search/publisher?name=Yeib)**:
@@ -55,6 +55,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
   - 🌐 **Portabilidad Extrema:** WebAssembly (WASM)
   - 📦 **Empaquetado Escritorio:** Tauri v2 & Exportador Standalone (.EXE)
   - 🤖 **IA Generativa Local & Offline:** Integración de modelos abiertos 100% offline (sin cuotas ni APIs externas) para generación de textos, personajes, escenarios, edificios e imágenes.
+- ⚔️ **Bestiario:** Videojuego RPG / Gacha de combate estratégico y cartas coleccionables multiplataforma (Web en Laravel, Android en Kotlin y cliente de escritorio para Steam en Rust + Tauri). Diseñado con arenas tácticas por turnos, economía de sobres, sincronización *cross-play* y narración dramática de combates con IA.
 - 🏗️ **Próximas Aplicaciones Nativas (Rust + Tauri v2):** Actualmente en construcción para sumar al catálogo de la Microsoft Store:
   - ✨ **[PowerDesktop](https://github.com/yeib/PowerDesktop):** La suite definitiva del ecosistema Yeib para reimaginar por completo el escritorio de Windows.
   - 💰 **ConTroll:** Gestión financiera offline para el control estricto de ingresos, gastos y presupuestos personales.
