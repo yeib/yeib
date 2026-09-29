@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **9 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, InkIt y CV— que puedes explorar más abajo).
+Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **10 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, InkIt y CV— que puedes explorar más abajo).
 
 La gran mayoría de mi trabajo vive en repositorios privados (plataformas comerciales, SaaS y soluciones B2B). Puedes ver mi ritmo de desarrollo diario en el gráfico de contribuciones y explorar mi selección de proyectos de código abierto.
 
@@ -16,6 +16,7 @@ La gran mayoría de mi trabajo vive en repositorios privados (plataformas comerc
 Herramientas nativas 100% offline, ágiles y con consumo mínimo de recursos. Explora el catálogo completo en el **[Perfil Oficial de Publicador Yeib en Microsoft Store](https://apps.microsoft.com/search/publisher?name=Yeib)**:
 
 - 🗣️ **[NeoTalker](https://apps.microsoft.com/detail/9P1GD2JKWCK4):** Sintetizador de voz TTS ultra-ligero (~2.5 MB RAM) impulsado por SVOX Pico en Rust 64-bit.
+- 🖋️ **[InkIt](https://apps.microsoft.com/detail/9ph8kk70mk9m):** Visor, firma y relleno de PDFs 100% offline con aceleración Canvas en Rust & Tauri v2.
 - 🎧 **[Ambiencer](https://apps.microsoft.com/detail/9P05FM70XVDX):** Paisajes sonoros offline y fondos animados para máxima concentración.
 - 🎨 **[DesignLab](https://apps.microsoft.com/detail/9NVT4TLV3XM4):** Espacio de trabajo y mini-suite offline para diseño gráfico y UI/UX.
 - 📝 **[SubSero](https://apps.microsoft.com/detail/9nqd3fbs9zlx):** Editor inteligente de subtítulos con sincronización temporal y traducción contextual offline.
@@ -44,7 +45,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 ### 🌍 Proyectos Abiertos (Open-Source)
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
-- 📄 **[InkIt](https://github.com/yeib/InkIt):** Visor y editor ligero de documentos PDF enfocado en lectura continua, anotación interactiva y manipulación ágil de páginas.
+- 📄 **[InkIt](https://github.com/yeib/InkIt):** Visor, firma y relleno de PDFs 100% offline con aceleración Canvas en Rust & Tauri v2 (disponible gratis en [Microsoft Store](https://apps.microsoft.com/detail/9ph8kk70mk9m)).
 - 🪪 **[CV Interactivo](https://github.com/yeib/CV):** Plantilla web moderna, interactiva y bilingüe en tiempo real con efecto Glassmorphism y cero dependencias de build. *Alpine.js, Tailwind CSS, JavaScript*.
 
 ### 🛠️ Proyectos en Desarrollo
