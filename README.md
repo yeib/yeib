@@ -38,6 +38,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 📧 **[YeibMail](https://mail.yeib.cl):** Solución de correo corporativo seguro e independiente.
 - 🎯 **[LicitaMejor](https://licitamejor.yeib.cl):** Plataforma SaaS de inteligencia estratégica con IA y radar en tiempo real para licitaciones públicas en Mercado Público.
 - ⚖️ **[Notaría Libre](https://notaria.yeib.cl):** Plataforma B2B para la modernización de oficios notariales con firmas digitales y trazabilidad de documentos.
+- 🏛️ **[JurisprudencIA](https://jurisprudencia.yeib.cl):** Plataforma SaaS de inteligencia jurídica y deliberación multi-IA para análisis normativo (BCN), dictámenes de Contraloría (CGR) y sentencias judiciales (PJUD).
 
 ### 🤝 Clientes Destacados
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
