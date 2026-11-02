@@ -31,7 +31,7 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 
 - 💻 **[Mi Portafolio](https://yeib.cl):** El ecosistema completo de marca personal y escaparate tecnológico.
 - 📚 **[FreeBlioteca](https://freeblioteca.cl):** Un ecosistema completo de gestión literaria.
-- 📈 **[Indicadores y Datos](https://indicadores.yeib.cl):** Sistema de monitoreo y análisis financiero.
+- 📈 **[Indicadores y Datos](https://indicadoresydatos.cl):** Sistema de monitoreo y análisis financiero.
 - 🧰 **[Yeib Tools](https://tools.yeib.cl):** Portal satélite de micro-herramientas gratuitas en PHP nativo (transcripción, análisis de archivos y utilidades web).
 - 🐉 **[Cronicón](https://cronicon.cl):** Plataforma híbrida que fusiona una red social con un juego de rol MMO (RPG).
 - 🌌 **[Proteo](https://proteo.yeib.cl):** Experimento de morfología web fluida y consciencia artificial evolutiva en Laravel, donde una entidad autónoma muta su diseño, lógica y narrativa mediante IA en tiempo real.
