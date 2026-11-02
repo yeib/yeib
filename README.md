@@ -44,9 +44,9 @@ Aunque los repositorios son privados, aquí tienes un vistazo a lo que construyo
 - 🌿 **[Limpieza y Jardinería Maule](https://limpiezayjardineriamaule.cl):** Solución digital para nuestro primer cliente de confianza.
 
 ### 🌍 Proyectos Abiertos (Open-Source)
+- 📄 **[Segno PDF](https://github.com/yeib/Segno-PDF):** Visor, firma y relleno de PDFs 100% offline con aceleración Canvas en Rust & Tauri v2 (disponible gratis en [Microsoft Store](https://apps.microsoft.com/detail/9ph8kk70mk9m)).
 - 🕵️‍♂️ **[Scrapic](https://github.com/yeib/scrapic_core):** Framework OSINT para extracción masiva de datos (Imágenes, Dorking, Spider Crawler). *Python, Streamlit*.
 - 🕸️ **[NexusGraph](https://github.com/yeib/osint-grapher):** Visualizador interactivo de redes y comunidades OSINT a partir de datos tabulares, con soporte para algoritmos de grafos. *R, Shiny, visNetwork*.
-- 📄 **[Segno PDF](https://github.com/yeib/Segno-PDF):** Visor, firma y relleno de PDFs 100% offline con aceleración Canvas en Rust & Tauri v2 (disponible gratis en [Microsoft Store](https://apps.microsoft.com/detail/9ph8kk70mk9m)).
 - 🪪 **[CV Interactivo](https://github.com/yeib/CV):** Plantilla web moderna, interactiva y bilingüe en tiempo real con efecto Glassmorphism y cero dependencias de build. *Alpine.js, Tailwind CSS, JavaScript*.
 
 ### 🛠️ Proyectos en Desarrollo
