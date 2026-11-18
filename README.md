@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **11 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, Segno PDF, Yeivily y CV— que puedes explorar más abajo).
+Soy un desarrollador independiente enfocado en la intersección entre tecnología, cultura, música, IA y videojuegos. En la web, mi stack central es TypeScript, React y Laravel. En escritorio, mi mayor logro es haber desarrollado en solitario **12 aplicaciones nativas publicadas en la Microsoft Store** utilizando Rust, Tauri y React / Vanilla JS (empaquetadas con Vite). No me interesan los clichés tecnológicos ni el humo; simplemente construyo plataformas, motores y soluciones reales (como una enorme biblioteca digital pública gratuita, un motor de videojuegos propio en pleno desarrollo con Rust, WGPU y WebAssembly, y mis proyectos open-source —Scrapic, NexusGraph, Segno PDF, Yeivily y CV— que puedes explorar más abajo).
 
 La gran mayoría de mi trabajo vive en repositorios privados (plataformas comerciales, SaaS y soluciones B2B). Puedes ver mi ritmo de desarrollo diario en el gráfico de contribuciones y explorar mi selección de proyectos de código abierto.
 
@@ -21,6 +21,7 @@ Herramientas nativas 100% offline, ágiles y con consumo mínimo de recursos. Ex
 - 🎨 **[DesignLab](https://apps.microsoft.com/detail/9NVT4TLV3XM4):** Espacio de trabajo y mini-suite offline para diseño gráfico y UI/UX.
 - 📝 **[SubSero](https://apps.microsoft.com/detail/9nqd3fbs9zlx):** Editor inteligente de subtítulos con sincronización temporal y traducción contextual offline.
 - 💰 **[ConTroll](https://apps.microsoft.com/detail/9PM5FNXJH9D5):** Gestión financiera personal 100% offline, gamificada (Troll-o-meter) y con importador inteligente de planillas.
+- 🧩 **[Trivioku](https://apps.microsoft.com/detail/9PF4FZSMG5NB):** Mega-suite 100% offline de 30+ minijuegos mentales, trivia y naipes clásicos en Rust & Tauri v2, con diorama 2.5D personalizable.
 - 📁 **[PowerFolder](https://apps.microsoft.com/detail/9NP57T3T4N1F):** Suite todo en uno que unifica las 4 aplicaciones independientes de abajo:
   - 📄 **[PDF Yeib](https://apps.microsoft.com/detail/9MST8VSWDZD7):** Edición, gestión y conversión visual de documentos PDF 100% offline.
   - 🛡️ **[Centinela Yeib](https://apps.microsoft.com/detail/9P2PZ9R47CRG):** Bóveda de cifrado AES-256, borrado seguro y monitoreo de productividad.
